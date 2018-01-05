@@ -1,0 +1,8 @@
+.country-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.country-item {
+  margin: 2rem;
+}
