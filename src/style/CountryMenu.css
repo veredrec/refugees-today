@@ -1,0 +1,11 @@
+.country-menu {
+  width: 15rem;
+  line-height: 1.5rem;
+  font-size: 1.2rem;
+  font-family: 'Encode Sans Condensed', sans-serif;
+  background-color: #e0e3e3;
+  padding: 0.4rem;
+}
+.option {
+  color: #185357;
+}

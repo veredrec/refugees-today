@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+.menu-item {
+  display: inline;
+  text-decoration: none;
+  margin-right: 1.5rem;
+  font-size: 1.2rem;
+}
